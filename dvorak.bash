@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # dvorak
 #
 # toggle between dvorak and qwerty easily
